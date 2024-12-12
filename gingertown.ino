@@ -21,7 +21,7 @@ uint8_t otherDeviceMAC[] = {0xA0, 0xDD, 0x6C, 0x6E, 0x93, 0x98};
 // Rhea's Mac Address 
 //uint8_t otherDeviceMAC[] = {0xA0, 0xDD, 0x6C, 0x70, 0x7E, 0xC8}; 
 
-// Add your other device's MAC Address here and comment out line 14.
+// Add your other device's MAC Address here and comment out line 19.
 
 typedef struct struct_message {
   char a[32];
