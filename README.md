@@ -1,8 +1,10 @@
-# GingerTown
+# GingerTown 
 ## Final Project, Creative Embedded Systems (Fall 2024)
 <p align="center">
   <img src="./gingerhouse.gif" alt="GingerHouse GIF">
 </p>
+
+### Team: Hari Bhimaraju (mhb2189), Rhea Charles (rtc2133)
 
 ## Project Goal
 In our final project, we will build an interactive gingerbread house "village" using two ESP32s, LED lights, buttons, and motion sensors. The project will emulate two neighbors "speaking" to each other over WiFi by transmitting simple greeting messages when a neighbor presses the doorbell and turning on the porch light when a neighbor waves. 
