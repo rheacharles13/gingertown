@@ -7,7 +7,7 @@
 ### Team: Hari Bhimaraju (mhb2189), Rhea Charles (rtc2133)
 
 ## Project Goal
-In our final project, we will build an interactive gingerbread house "village" using two ESP32s, LED lights, buttons, and motion sensors. The project will emulate two neighbors "speaking" to each other over WiFi by transmitting simple greeting messages when a neighbor presses the doorbell and turning on the porch light when a neighbor waves. 
+In our final project, we will build an interactive gingerbread house "village" using two ESP32s, LED lights, buttons, and motion sensors. The project will emulate two neighbors "speaking" to each other over WiFi by transmitting a greeting messages when a neighbor presses the doorbell and turning on the porch light when they wave. 
 
 ## Materials
 - Full-size breadboard
