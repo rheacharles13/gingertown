@@ -30,7 +30,7 @@ Upload the included [gingerhouse_plan.svg]((./gingerhouse_plan.svg)) file (which
 #### **Note**: Do not look directly at the laser while it is on. However, keep an eye on the project to ensure no fires are starting while the laser is working. Stop your design if a significant fire starts while cutting.
 
 ## Assembly Instructions
-Easily fit the notches of the laser cut pieces together to construct your gingerbread house, leaving out the front of the house. Trace the breadboard and outline of mounted components (door (ESP-32), porch light (LED), doorbell (button), and motion sensor) on the front of the house. Next, use an X-ACTO knife to cut out the appropriate holes for the components and fit the breadboard with components on the back of the piece. Secure with packing tape before fitting the front piece to the rest of the house.
+Easily fit the notches of the laser cut pieces together to construct your gingerbread house, leaving out the front of the house. Trace the breadboard and outline of mounted components (door (ESP-32), porch light (LED), doorbell (button), and motion sensor) on the front of the house. Next, use an X-ACTO knife to cut out the appropriate holes for the components and fit the breadboard with components to the back of the piece. Secure with packing tape before fitting the front piece to the rest of the house and testing out your project!
 
 ## Detailed Documentation
 For more detailed documentation on our design process and the technical challenges we faced, please visit our [Notion page](https://www.notion.so/Final-Project-GingerTown-1580c243667880daa0d8d64ad89ab157).
